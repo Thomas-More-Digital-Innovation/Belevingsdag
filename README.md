@@ -50,15 +50,15 @@ python -m pip install openai
 ### 3. Maak je eigen chatbot 
 - Gebruik openai librarie om je AI request te doen. Vergeet ook niet om je API credentials te nemen van Aglion.
   De gegevens kun je vinden op de volgende url : [Algion](https://www.algion.dev/).
-- Als je vastloopt, kun je kijken naar oplossing 1 op de volgende link : [https://github.com/Maurits2906/belevingsdag/blob/main/Stap1_Maak_Je_Eigen_Chatbot.py](https://github.com/Maurits2906/belevingsdag/blob/main/Stap1_Maak_Je_Eigen_Chatbot.py) 
+- Als je vastloopt, kun je kijken naar oplossing 1 op de volgende link : [https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap1_Maak_Je_Eigen_Chatbot.py](https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap1_Maak_Je_Eigen_Chatbot.py)
 
 ### 4. Scrape data
 - Gebruik requests om een HTTP request te kunnen doen en gebruik van bs4 de BeatifulSoup om de HTML data mooi te kunnen benaderen.
-- Als je vastloopt, kun je kijken naar oplossing 2 op de volgende link : [https://github.com/Maurits2906/belevingsdag/blob/main/Stap2_Scrape_Data.py](https://github.com/Maurits2906/belevingsdag/blob/main/Stap2_Scrape_Data.py)
+- Als je vastloopt, kun je kijken naar oplossing 2 op de volgende link : [https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap2_Scrape_Data.py](https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap2_Scrape_Data.py)
 
 ### 5. Automatiseer jouw opzoekwerk
 - Gebruik alles wat je hiervoor gebruikt hebt en combineer ze om automatisch jouw gegeven url door AI te laten analyseren.
-- Als je vastloopt, kun je kijken naar oplossing 3 op de volgende link : [https://github.com/Maurits2906/belevingsdag/blob/main/Stap3_Automatiseer_Jouw_Opzoekwerk.py](https://github.com/Maurits2906/belevingsdag/blob/main/Stap3_Automatiseer_Jouw_Opzoekwerk.py)
+- Als je vastloopt, kun je kijken naar oplossing 3 op de volgende link : [https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap3_Automatiseer_Jouw_Opzoekwerk.py](https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap3_Automatiseer_Jouw_Opzoekwerk.py)
 
 ### 6. Gebruik je eigen creativiteit
 - Maak met alles wat je nu geleerd hebt jouw eigen automatisering. Een goede tip wanneer je vastzit, is dat je AI goed kunt gebruiken met het maken van je script. Veel succes!!!
