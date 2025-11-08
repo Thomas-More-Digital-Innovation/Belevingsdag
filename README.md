@@ -5,7 +5,7 @@ In deze repository vindt u alles voor de **belevingsdag** voor het gedeelte **AI
 
 ## Wat moet je gaan maken?
 
-Je gaat beginnen met het maken van je eigen **AI-chatbot** te maken met Python.  
+Je gaat beginnen met het maken van je eigen **AI-chatbot** met Python.  
 Daarna ga je de **inhoud van een website lezen** met Python.  
 Als laatste stap ga je jouw **eigen zoekopdracht automatiseren**.  
 
