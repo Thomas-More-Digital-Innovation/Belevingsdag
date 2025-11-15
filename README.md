@@ -61,7 +61,7 @@ python -m pip install openai
 - Als je vastloopt, kun je kijken naar oplossing 3 op de volgende link : [https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap3_Automatiseer_Jouw_Opzoekwerk.py](https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap3_Automatiseer_Jouw_Opzoekwerk.py)
 
 ### 6. Gebruik je eigen creativiteit
-- Maak met alles wat je nu geleerd hebt jouw eigen automatisering. Een goede tip wanneer je vastzit, is dat je AI goed kunt gebruiken met het maken van je script. Veel succes!!!
+- Maak met alles wat je nu geleerd hebt jouw eigen automatisering. Een goede tip wanneer je vastzit, is dat je AI goed kunt gebruiken met het maken van je script. Heb je geen idee wat je moet maken? Kijk naar het inspiratie script op de volgende link : [https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap4_Wat_Extra_Inspiratie.py](https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap4_Wat_Extra_Inspiratie.py). Veel succes!!!
 
 
  ## Inhoud : 
@@ -69,6 +69,7 @@ python -m pip install openai
 -  Stap 1 : Maak je eigen chatbot (basisoplossing is gegeven)
 -  Stap 2 : Scrape data van een eigen website naar keuze (basisoplossing is gegeven)
 -  Stap 3 : Automatiseer jouw eigen opzoekwerk (basisoplossing is gegeven)
+-  Stap 4 : Wat extra inspiratie (inspiratie is gegeven)
 
   
 <!-- ![SchwartzjAllbetterGIF](https://github.com/user-attachments/assets/c0613ee5-29f9-4aff-8bb2-f9b5237963d3) -->
