@@ -13,3 +13,6 @@ soup = BeautifulSoup(response.text, 'html.parser')
 
 # Alle tekst op de pagina
 text = soup.get_text()
+
+# Toon de tekst van de pagina
+print(text)
