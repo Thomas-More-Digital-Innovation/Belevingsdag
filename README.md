@@ -52,23 +52,36 @@ python -m pip install openai
 !pip install requests
 ```
 
-### 3. Maak je eigen chatbot
+### 3. Maak een eigen API Key aan bij GROQ
+**Maak een account aan bij GROQ**
 
-- Gebruik openai librarie om je AI request te doen. Vergeet ook niet om je API credentials te nemen van Aglion.
-  De gegevens kun je vinden op de volgende url : [Algion](https://www.algion.dev/).
+Ga naar de website van Groq : [https://console.groq.com/home](https://console.groq.com/home). Maak hier een account aan via email of login via je Google of Github account.
+
+<img width="auto" height="350" alt="image" src="https://github.com/user-attachments/assets/7eae93cc-8b18-4566-bd22-147c466d9a18" />
+
+**Maak nu een API key aan**
+
+Ga via het menu naar API Keys of ga naar de volgende link : [https://console.groq.com/keys](https://console.groq.com/keys). Klik hier op "Create API Key". Kies een display name naar keuze voor je API. De vervaldatum mag je laten staan op geen vervaldatum.
+OPGELET : HET TOONT DE API KEY MAAR 1 KEER, SLA DEZE API KEY ERGENS OP!!!
+
+<img width="auto" height="350" alt="image" src="https://github.com/user-attachments/assets/c3df9921-f338-4d33-a875-73bc161ac7af" />
+
+### 4. Maak je eigen chatbot
+
+- Gebruik openai librarie om je AI request te doen. Vergeet niet om je API Key te gebruiken die je in de vorige stap hebt gemaakt.
 - Als je vastloopt, kun je kijken naar oplossing 1 op de volgende link: [https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap1_Maak_Je_Eigen_Chatbot.py](https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap1_Maak_Je_Eigen_Chatbot.py)
 
-### 4. Scrape data
+### 5. Scrape data
 
 - Gebruik requests om een HTTP request te kunnen doen en gebruik van bs4 de BeatifulSoup om de HTML data mooi te kunnen benaderen.
 - Als je vastloopt, kun je kijken naar oplossing 2 op de volgende link: [https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap2_Scrape_Data.py](https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap2_Scrape_Data.py)
 
-### 5. Automatiseer jouw opzoekwerk
+### 6. Automatiseer jouw opzoekwerk
 
 - Gebruik alles wat je hiervoor gebruikt hebt en combineer ze om automatisch jouw gegeven url door AI te laten analyseren.
 - Als je vastloopt, kun je kijken naar oplossing 3 op de volgende link: [https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap3_Automatiseer_Jouw_Opzoekwerk.py](https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap3_Automatiseer_Jouw_Opzoekwerk.py)
 
-### 6. Gebruik je eigen creativiteit
+### 7. Gebruik je eigen creativiteit
 
 - Maak met alles wat je nu geleerd hebt jouw eigen automatisering. Een goede tip wanneer je vastzit, is dat je AI goed kunt gebruiken met het maken van je script. Heb je geen idee wat je moet maken? Kijk naar het inspiratie script op de volgende link: [https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap4_Wat_Extra_Inspiratie.py](https://github.com/Thomas-More-Digital-Innovation/Belevingsdag/blob/main/Stap4_Wat_Extra_Inspiratie.py). Veel succes!!!
 
@@ -79,6 +92,7 @@ python -m pip install openai
 - Stap 2 : Scrape data van een eigen website naar keuze (basisoplossing is gegeven)
 - Stap 3 : Automatiseer jouw eigen opzoekwerk (basisoplossing is gegeven)
 - Stap 4 : Wat extra inspiratie (inspiratie is gegeven)
+- README.md
 
 <!-- ![SchwartzjAllbetterGIF](https://github.com/user-attachments/assets/c0613ee5-29f9-4aff-8bb2-f9b5237963d3) -->
 ![IchigiggleGogoGIF](https://github.com/user-attachments/assets/83c41cbf-28d2-4877-b018-b10e24092853)
