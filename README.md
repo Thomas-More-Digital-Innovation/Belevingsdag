@@ -99,6 +99,8 @@ OPGELET : HET TOONT DE API KEY MAAR 1 KEER, SLA DEZE API KEY ERGENS OP!!!
 
 ## Bronnen
 
-- [Algion](https://www.algion.dev/)
+- [Groq](https://groq.com/)
+- [Google Colab](https://colab.research.google.com/)
+- [VS Code](https://code.visualstudio.com/)
 
 Gemaakt door Maurits Groen
