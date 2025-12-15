@@ -16,5 +16,5 @@ response = client.responses.create(
             input=vraag,
         )
 
-#Geef het antwoord van API (de AI chatbot) weer
+#Geef het antwoord van de AI chatbot weer
 print(response.output_text)
