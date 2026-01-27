@@ -37,9 +37,9 @@ Gebruik AI — het is volledig toegestaan 😉
 - Doe in je CMD (Command Prompt) de volgende commando's om de nodige libraries te installeren:
 
 ```bash
-python -m pip install requests
-python -m pip install bs4
-python -m pip install openai
+py -m pip install requests
+py -m pip install bs4
+py -m pip install openai
 ```
 
 **Wanneer je Google Colab gebruikt:**
